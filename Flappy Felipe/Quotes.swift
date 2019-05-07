@@ -1,7 +1,3 @@
-//
-//  ViewController.swift
-//  QuotesLoad
-//
 //  Created by Grant Trevathan on 5/2/19.
 //  Copyright © 2019 Ohm-Made LLC. All rights reserved.
 //
