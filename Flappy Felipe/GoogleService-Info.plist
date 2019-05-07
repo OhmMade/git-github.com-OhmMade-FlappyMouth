@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>850200627611-duqnr0k0nkfviqnl7gab8kafdghv6478.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.850200627611-duqnr0k0nkfviqnl7gab8kafdghv6478</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_YYVO9S8DNHSgfbjiF5sgaxexA3gxkJk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>850200627611</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Flappy.Mouth.ohmmade.biz</string>
+	<key>PROJECT_ID</key>
+	<string>flappy-mouth-a3e55</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flappy-mouth-a3e55.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:850200627611:ios:9d481b0b3d4c1805</string>
+	<key>DATABASE_URL</key>
+	<string>https://flappy-mouth-a3e55.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-9250387786341302~2089371596</string>
+</dict>
+</plist>

@@ -44,6 +44,7 @@
 		0430DEC31E6C689B0010C348 /* TutorialState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0430DEC21E6C689B0010C348 /* TutorialState.swift */; };
 		0430DEC71E6CB7490010C348 /* AnimationComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0430DEC61E6CB7490010C348 /* AnimationComponent.swift */; };
 		11CFD30F228137F5004D09D7 /* Quotes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11CFD30E228137F5004D09D7 /* Quotes.swift */; };
+		11F0F06A22815FD100CF7C30 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 11F0F06922815FD100CF7C30 /* GoogleService-Info.plist */; };
 		9B781BDE9ED713FF5278752A /* Pods_Flappy_Felipe.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E335303096D7526103837B82 /* Pods_Flappy_Felipe.framework */; };
 /* End PBXBuildFile section */
 
@@ -87,6 +88,7 @@
 		0430DEC21E6C689B0010C348 /* TutorialState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TutorialState.swift; sourceTree = "<group>"; };
 		0430DEC61E6CB7490010C348 /* AnimationComponent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnimationComponent.swift; sourceTree = "<group>"; };
 		11CFD30E228137F5004D09D7 /* Quotes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quotes.swift; sourceTree = "<group>"; };
+		11F0F06922815FD100CF7C30 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		6D90B32A260ED463A5BEEE7D /* Pods-Flappy Felipe.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flappy Felipe.debug.xcconfig"; path = "Target Support Files/Pods-Flappy Felipe/Pods-Flappy Felipe.debug.xcconfig"; sourceTree = "<group>"; };
 		C7FE18F12E2AF15B1A28554C /* Pods-Flappy Felipe.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flappy Felipe.release.xcconfig"; path = "Target Support Files/Pods-Flappy Felipe/Pods-Flappy Felipe.release.xcconfig"; sourceTree = "<group>"; };
 		E335303096D7526103837B82 /* Pods_Flappy_Felipe.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Flappy_Felipe.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -136,6 +138,7 @@
 				0430DE701E69F8920010C348 /* Main.storyboard */,
 				0430DE731E69F8920010C348 /* Assets.xcassets */,
 				0430DE751E69F8920010C348 /* LaunchScreen.storyboard */,
+				11F0F06922815FD100CF7C30 /* GoogleService-Info.plist */,
 				0430DE781E69F8920010C348 /* Info.plist */,
 			);
 			path = "Flappy Felipe";
@@ -229,7 +232,6 @@
 				6D90B32A260ED463A5BEEE7D /* Pods-Flappy Felipe.debug.xcconfig */,
 				C7FE18F12E2AF15B1A28554C /* Pods-Flappy Felipe.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +310,7 @@
 				0430DE721E69F8920010C348 /* Main.storyboard in Resources */,
 				0430DE741E69F8920010C348 /* Assets.xcassets in Resources */,
 				0430DEAC1E69FBD70010C348 /* hitGround.wav in Resources */,
+				11F0F06A22815FD100CF7C30 /* GoogleService-Info.plist in Resources */,
 				0430DEAD1E69FBD70010C348 /* pop.wav in Resources */,
 				0430DE991E69FBD70010C348 /* sprites.atlas in Resources */,
 				0430DEA91E69FBD70010C348 /* ding.wav in Resources */,
