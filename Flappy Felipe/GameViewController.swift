@@ -17,7 +17,7 @@ class GameViewController: UIViewController, GameSceneDelegate, GADBannerViewDele
     
     Banner.isHidden = true
     Banner.delegate = self
-    Banner.adUnitID = "ca-app-pub-3940256099942544/2934735716"
+    Banner.adUnitID = "ca-app-pub-9250387786341302/8197406955"
     Banner.adSize = kGADAdSizeSmartBannerPortrait
     Banner.rootViewController = self
     Banner.load(GADRequest())
