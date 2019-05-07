@@ -37,8 +37,7 @@ class GameViewController: UIViewController, GameSceneDelegate, GADBannerViewDele
         skView.presentScene(scene)
       }
 
-        func adViewDidReceiveAd(_ bannerView: GADBannerView) {
-        
+    func adViewDidReceiveAd(_ bannerView: GADBannerView) {
         Banner.isHidden = false
     }
         
