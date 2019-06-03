@@ -109,7 +109,7 @@
 		0430DE5A1E69F8920010C348 = {
 			isa = PBXGroup;
 			children = (
-				0430DE651E69F8920010C348 /* Flappy Felipe */,
+				0430DE651E69F8920010C348 /* Flappy Mouth */,
 				0430DE641E69F8920010C348 /* Products */,
 				20D0F9E79DBC05251909A4D9 /* Pods */,
 				B9BD620AB078FF7203ABE84C /* Frameworks */,
@@ -124,7 +124,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0430DE651E69F8920010C348 /* Flappy Felipe */ = {
+		0430DE651E69F8920010C348 /* Flappy Mouth */ = {
 			isa = PBXGroup;
 			children = (
 				0430DEB91E6B43A60010C348 /* GameStates */,
@@ -141,7 +141,7 @@
 				11F0F06922815FD100CF7C30 /* GoogleService-Info.plist */,
 				0430DE781E69F8920010C348 /* Info.plist */,
 			);
-			path = "Flappy Felipe";
+			path = "Flappy Mouth";
 			sourceTree = "<group>";
 		};
 		0430DE7E1E69FBD70010C348 /* Resources */ = {
@@ -246,9 +246,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0430DE621E69F8920010C348 /* Flappy Felipe */ = {
+		0430DE621E69F8920010C348 /* Flappy Mouth */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0430DE7B1E69F8920010C348 /* Build configuration list for PBXNativeTarget "Flappy Felipe" */;
+			buildConfigurationList = 0430DE7B1E69F8920010C348 /* Build configuration list for PBXNativeTarget "Flappy Mouth" */;
 			buildPhases = (
 				13AB2704C59AF8B5E8E98EEB /* [CP] Check Pods Manifest.lock */,
 				0430DE5F1E69F8920010C348 /* Sources */,
@@ -260,7 +260,7 @@
 			);
 			dependencies = (
 			);
-			name = "Flappy Felipe";
+			name = "Flappy Mouth";
 			productName = "Flappy Felipe";
 			productReference = 0430DE631E69F8920010C348 /* Flappy Mouth.app */;
 			productType = "com.apple.product-type.application";
@@ -277,12 +277,12 @@
 				TargetAttributes = {
 					0430DE621E69F8920010C348 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = M6Z9E2K6ZJ;
+						DevelopmentTeam = VS8S7Y84MH;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Felipe" */;
+			buildConfigurationList = 0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Mouth" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -295,7 +295,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0430DE621E69F8920010C348 /* Flappy Felipe */,
+				0430DE621E69F8920010C348 /* Flappy Mouth */,
 			);
 		};
 /* End PBXProject section */
@@ -539,12 +539,15 @@
 			baseConfigurationReference = 6D90B32A260ED463A5BEEE7D /* Pods-Flappy Felipe.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = M6Z9E2K6ZJ;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VS8S7Y84MH;
 				INFOPLIST_FILE = "Flappy Felipe/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Flappy.Mouth.ohmmade.biz;
+				PRODUCT_BUNDLE_IDENTIFIER = ohmmade.flappymouth;
 				PRODUCT_NAME = "Flappy Mouth";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -554,12 +557,15 @@
 			baseConfigurationReference = C7FE18F12E2AF15B1A28554C /* Pods-Flappy Felipe.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = M6Z9E2K6ZJ;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = VS8S7Y84MH;
 				INFOPLIST_FILE = "Flappy Felipe/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Flappy.Mouth.ohmmade.biz;
+				PRODUCT_BUNDLE_IDENTIFIER = ohmmade.flappymouth;
 				PRODUCT_NAME = "Flappy Mouth";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
@@ -567,7 +573,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Felipe" */ = {
+		0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Mouth" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0430DE791E69F8920010C348 /* Debug */,
@@ -576,7 +582,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0430DE7B1E69F8920010C348 /* Build configuration list for PBXNativeTarget "Flappy Felipe" */ = {
+		0430DE7B1E69F8920010C348 /* Build configuration list for PBXNativeTarget "Flappy Mouth" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0430DE7C1E69F8920010C348 /* Debug */,
