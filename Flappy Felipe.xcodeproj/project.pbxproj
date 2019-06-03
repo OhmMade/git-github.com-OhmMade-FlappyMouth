@@ -109,7 +109,7 @@
 		0430DE5A1E69F8920010C348 = {
 			isa = PBXGroup;
 			children = (
-				0430DE651E69F8920010C348 /* Flappy Mouth */,
+				0430DE651E69F8920010C348 /* Flappy Felipe */,
 				0430DE641E69F8920010C348 /* Products */,
 				20D0F9E79DBC05251909A4D9 /* Pods */,
 				B9BD620AB078FF7203ABE84C /* Frameworks */,
@@ -124,7 +124,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0430DE651E69F8920010C348 /* Flappy Mouth */ = {
+		0430DE651E69F8920010C348 /* Flappy Felipe */ = {
 			isa = PBXGroup;
 			children = (
 				0430DEB91E6B43A60010C348 /* GameStates */,
@@ -141,7 +141,7 @@
 				11F0F06922815FD100CF7C30 /* GoogleService-Info.plist */,
 				0430DE781E69F8920010C348 /* Info.plist */,
 			);
-			path = "Flappy Mouth";
+			path = "Flappy Felipe";
 			sourceTree = "<group>";
 		};
 		0430DE7E1E69FBD70010C348 /* Resources */ = {
@@ -282,7 +282,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Mouth" */;
+			buildConfigurationList = 0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Felipe" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -573,7 +573,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Mouth" */ = {
+		0430DE5E1E69F8920010C348 /* Build configuration list for PBXProject "Flappy Felipe" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0430DE791E69F8920010C348 /* Debug */,
